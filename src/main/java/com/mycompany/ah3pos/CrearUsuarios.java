@@ -4,7 +4,7 @@
  */
 package com.mycompany.ah3pos;
 
-import java.util.LinkedList;
+
 import javax.swing.JOptionPane;
 
 /**
